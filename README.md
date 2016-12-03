@@ -1,7 +1,7 @@
 
 ## Andrei Kozyakov, group 350531. Business-requirements.
 
-[fzLinkLink]: #fzLink
+[fzLinkLink]: /#fzLink
 
 # Глоссарий
 <table border = "2px">
@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td>Клиент</td>
-        <td>Зарегестрированный на сайте <a href="#fzLink">ФЗ</a> пользователь</td>
+        <td>Зарегестрированный на сайте <a href="#user-content-fzLink">ФЗ</a> пользователь</td>
     </tr>
 </table>
 
