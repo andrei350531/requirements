@@ -58,6 +58,12 @@
 ![Login Page](https://github.com/andrei350531/requirements/blob/master/images/login.png?raw=true)
 #### Страница регистрации клиента
 ![Registration Page](https://github.com/andrei350531/requirements/blob/master/images/registration.png?raw=true)
+#### Страница галереи
+![Gelery Page](https://github.com/andrei350531/requirements/blob/master/images/geleryUser.png?raw=true)
+#### Страница услуг
+![Services Page](https://github.com/andrei350531/requirements/blob/master/images/serviceUser.png?raw=true)
+#### Страница услуг для клинета
+![Services Client Page](https://github.com/andrei350531/requirements/blob/master/images/serviceClient.png?raw=true)
 
 ## 2.3 Характеристики пользователя
 &nbsp;&nbsp;&nbsp;&nbsp;Данный сайт будет подходить всем группам людей, желающим узнать о ФЗ или стать его клиентами, независимо от их образования, опыта и технической грамотности.
