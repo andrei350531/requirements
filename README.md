@@ -51,9 +51,13 @@
 Покупка абонементов пользователями должна быть реализована через систему `"WEBPAY.BY"`.
 
 ## 2.2 Интерфейс пользователя
-&nbsp;&nbsp;&nbsp;&nbsp;Мокапы интерфейса прилагаются в изображениях
 
+#### Главная страница сайта
 ![Main Page](https://github.com/andrei350531/requirements/blob/master/images/mainPage.png?raw=true)
+#### Страница авторизации клиента
+![Login Page](https://github.com/andrei350531/requirements/blob/master/images/login.png?raw=true)
+#### Страница регистрации клиента
+![Registration Page](https://github.com/andrei350531/requirements/blob/master/images/registration.png?raw=true)
 
 ## 2.3 Характеристики пользователя
 &nbsp;&nbsp;&nbsp;&nbsp;Данный сайт будет подходить всем группам людей, желающим узнать о ФЗ или стать его клиентами, независимо от их образования, опыта и технической грамотности.
