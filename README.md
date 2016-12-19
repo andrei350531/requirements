@@ -1,6 +1,8 @@
 
 ## Andrei Kozyakov, group 350531. Business-requirements.
 
+<a href="#user-content-diagrams">Смотреть диаграммы</a>
+
 # Глоссарий
 <table>
     <tr>
@@ -124,3 +126,35 @@
 * Загрузка сайта не должна занимать больше пяти секунд
 * Графический дизайн должен быть отзывчивым как для мобильных, так и для десктопных устройств
 * Запросы к базе данных должны заниматься не больше одной секунды
+
+
+
+
+# <span name="diagrams">Диаграммы</span>
+
+## Диаграмма классов
+![Classes diagram](https://github.com/andrei350531/requirements/blob/master/schemas/classes.jpg?raw=true)
+
+
+## Диаграмма последовательности (Переключение между страницами сайта)
+![Sequence diagram](https://github.com/andrei350531/requirements/blob/master/schemas/sequence.jpg?raw=true)
+
+
+## Диаграмма состояний (Запись клиента на занятие)
+![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/states.jpg?raw=true)
+
+
+## Диаграмма состояний (Запись клиента на занятие)
+![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/states.jpg?raw=true)
+
+
+## Диаграмма использования
+![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/useCase1.jpg?raw=true)
+
+
+## Диаграмма использования
+![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/useCase2.jpg?raw=true)
+
+
+## Диаграмма деятельности
+![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/activity.jpg?raw=true)
