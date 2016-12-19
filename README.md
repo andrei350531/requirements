@@ -1,7 +1,7 @@
 
 ## Andrei Kozyakov, group 350531. Business-requirements.
 
-<a href="#user-content-diagrams">Смотреть диаграммы</a>
+<a href="#Диаграммы">Смотреть диаграммы</a>
 
 # Глоссарий
 <table>
@@ -144,15 +144,11 @@
 ![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/states.jpg?raw=true)
 
 
-## Диаграмма состояний (Запись клиента на занятие)
-![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/states.jpg?raw=true)
-
-
-## Диаграмма использования
+## Диаграмма использования №1
 ![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/useCase1.jpg?raw=true)
 
 
-## Диаграмма использования
+## Диаграмма использования №2
 ![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/useCase2.jpg?raw=true)
 
 
