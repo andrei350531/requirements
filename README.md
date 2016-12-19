@@ -154,3 +154,7 @@
 
 ## Диаграмма деятельности
 ![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/activity.jpg?raw=true)
+
+
+## Диаграмма компонентов
+![States diagram](https://github.com/andrei350531/requirements/blob/master/schemas/components.jpg?raw=true)
